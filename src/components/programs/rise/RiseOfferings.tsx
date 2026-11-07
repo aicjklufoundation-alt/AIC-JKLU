@@ -104,7 +104,7 @@ function ExpertMentoringIcon() {
 const OFFERINGS_DATA = [
   {
     icon: LabAccessIcon,
-    title: 'LAB ACCESS',
+    title: 'LAB ACCESSS',
     description: 'Prototyping facilities and hardware labs provided in partnership with JKLU.',
   },
   {
