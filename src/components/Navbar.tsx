@@ -19,7 +19,7 @@ const PROGRAMS_DROPDOWN_ITEMS: DropdownItem[] = [
   { label: 'Accelerator Program', href: '/programs' }, { label: 'RISE', href: '/programs/rise' }, { label: 'LEAP', href: '/programs/leap' }, { label: 'Incubation Program', href: '/programs/incubation' },
 ];
 const ABOUT_DROPDOWN_ITEMS: DropdownItem[] = [{ label: 'About AIC-JKLU', href: '/about' }, { label: 'Vision & Mission', href: '/about/mission-vision' }];
-const STAKEHOLDERS_DROPDOWN_ITEMS: DropdownItem[] = [{ label: 'Team', href: '/#team' }, { label: 'Mentors', href: '/stakeholders' }, { label: 'Partners', href: '/partners' }];
+const STAKEHOLDERS_DROPDOWN_ITEMS: DropdownItem[] = [{ label: 'Team', href: '/team' }, { label: 'Mentors', href: '/stakeholders' }, { label: 'Partners', href: '/partners' }];
 
 const navLinkClass = 'group relative whitespace-nowrap font-robotoMono text-[11px] lg:text-xs font-medium uppercase tracking-[0.13em] text-slateMuted transition-colors duration-300 ease-out hover:text-[#EB5725] cursor-pointer';
 const mobileLinkClass = 'flex w-full items-center justify-between py-2 font-robotoMono text-xs font-medium uppercase tracking-[0.12em] text-slateMuted transition-colors duration-300 hover:text-[#EB5725] cursor-pointer';
