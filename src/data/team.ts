@@ -48,7 +48,7 @@ export const BOARD_OF_DIRECTORS: DetailedTeamMember[] = [
     name: 'Prof. (Dr.) Vijaya Sekhar Chellaboina',
     role: 'VC, JKLU',
     affiliation: '(INTERNAL)',
-    image: '/team/directors/vcsir.png',
+    image: '/team/directors/111.png',
     category: 'leadership',
     linkedin: 'https://www.linkedin.com/in/vchellaboina/',
   },
