@@ -86,6 +86,7 @@ export const BOARD_OF_DIRECTORS: DetailedTeamMember[] = [
     affiliation: '(EXTERNAL)',
     image: '/team/directors/55.png',
     category: 'leadership',
+    linkedin: 'https://www.linkedin.com/in/naveen-kumar-sharma-26146418b?utm_source=share_via&utm_content=profile&utm_medium=member_android',
   },
   {
     id: 'bod-06',
